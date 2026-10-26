@@ -1,0 +1,938 @@
+[
+{
+"month": "2025-11",
+"topic": "Benchmarks & evaluation",
+"pct": 52.5,
+"papers": 126
+},
+{
+"month": "2025-12",
+"topic": "Benchmarks & evaluation",
+"pct": 46.0,
+"papers": 251
+},
+{
+"month": "2026-01",
+"topic": "Benchmarks & evaluation",
+"pct": 48.9,
+"papers": 204
+},
+{
+"month": "2026-02",
+"topic": "Benchmarks & evaluation",
+"pct": 51.7,
+"papers": 214
+},
+{
+"month": "2026-03",
+"topic": "Benchmarks & evaluation",
+"pct": 50.7,
+"papers": 426
+},
+{
+"month": "2026-04",
+"topic": "Benchmarks & evaluation",
+"pct": 50.2,
+"papers": 456
+},
+{
+"month": "2026-05",
+"topic": "Benchmarks & evaluation",
+"pct": 51.2,
+"papers": 413
+},
+{
+"month": "2026-06",
+"topic": "Benchmarks & evaluation",
+"pct": 54.6,
+"papers": 470
+},
+{
+"month": "2026-07",
+"topic": "Benchmarks & evaluation",
+"pct": 47.7,
+"papers": 352
+},
+{
+"month": "2026-08",
+"topic": "Benchmarks & evaluation",
+"pct": 48.7,
+"papers": 378
+},
+{
+"month": "2026-09",
+"topic": "Benchmarks & evaluation",
+"pct": 51.8,
+"papers": 382
+},
+{
+"month": "2026-10",
+"topic": "Benchmarks & evaluation",
+"pct": 51.1,
+"papers": 232
+},
+{
+"month": "2025-11",
+"topic": "RL training of agents",
+"pct": 25.0,
+"papers": 60
+},
+{
+"month": "2025-12",
+"topic": "RL training of agents",
+"pct": 31.0,
+"papers": 169
+},
+{
+"month": "2026-01",
+"topic": "RL training of agents",
+"pct": 29.3,
+"papers": 122
+},
+{
+"month": "2026-02",
+"topic": "RL training of agents",
+"pct": 27.1,
+"papers": 112
+},
+{
+"month": "2026-03",
+"topic": "RL training of agents",
+"pct": 25.3,
+"papers": 213
+},
+{
+"month": "2026-04",
+"topic": "RL training of agents",
+"pct": 21.8,
+"papers": 198
+},
+{
+"month": "2026-05",
+"topic": "RL training of agents",
+"pct": 23.9,
+"papers": 193
+},
+{
+"month": "2026-06",
+"topic": "RL training of agents",
+"pct": 21.5,
+"papers": 185
+},
+{
+"month": "2026-07",
+"topic": "RL training of agents",
+"pct": 23.6,
+"papers": 174
+},
+{
+"month": "2026-08",
+"topic": "RL training of agents",
+"pct": 20.9,
+"papers": 162
+},
+{
+"month": "2026-09",
+"topic": "RL training of agents",
+"pct": 22.4,
+"papers": 165
+},
+{
+"month": "2026-10",
+"topic": "RL training of agents",
+"pct": 20.3,
+"papers": 92
+},
+{
+"month": "2025-11",
+"topic": "Memory & long-horizon",
+"pct": 12.1,
+"papers": 29
+},
+{
+"month": "2025-12",
+"topic": "Memory & long-horizon",
+"pct": 18.7,
+"papers": 102
+},
+{
+"month": "2026-01",
+"topic": "Memory & long-horizon",
+"pct": 18.5,
+"papers": 77
+},
+{
+"month": "2026-02",
+"topic": "Memory & long-horizon",
+"pct": 22.5,
+"papers": 93
+},
+{
+"month": "2026-03",
+"topic": "Memory & long-horizon",
+"pct": 19.5,
+"papers": 164
+},
+{
+"month": "2026-04",
+"topic": "Memory & long-horizon",
+"pct": 19.1,
+"papers": 173
+},
+{
+"month": "2026-05",
+"topic": "Memory & long-horizon",
+"pct": 24.2,
+"papers": 195
+},
+{
+"month": "2026-06",
+"topic": "Memory & long-horizon",
+"pct": 24.6,
+"papers": 212
+},
+{
+"month": "2026-07",
+"topic": "Memory & long-horizon",
+"pct": 18.6,
+"papers": 137
+},
+{
+"month": "2026-08",
+"topic": "Memory & long-horizon",
+"pct": 24.4,
+"papers": 189
+},
+{
+"month": "2026-09",
+"topic": "Memory & long-horizon",
+"pct": 19.2,
+"papers": 142
+},
+{
+"month": "2026-10",
+"topic": "Memory & long-horizon",
+"pct": 23.3,
+"papers": 106
+},
+{
+"month": "2025-11",
+"topic": "Tool use & function calling",
+"pct": 17.9,
+"papers": 43
+},
+{
+"month": "2025-12",
+"topic": "Tool use & function calling",
+"pct": 18.1,
+"papers": 99
+},
+{
+"month": "2026-01",
+"topic": "Tool use & function calling",
+"pct": 21.6,
+"papers": 90
+},
+{
+"month": "2026-02",
+"topic": "Tool use & function calling",
+"pct": 19.1,
+"papers": 79
+},
+{
+"month": "2026-03",
+"topic": "Tool use & function calling",
+"pct": 18.3,
+"papers": 154
+},
+{
+"month": "2026-04",
+"topic": "Tool use & function calling",
+"pct": 21.4,
+"papers": 194
+},
+{
+"month": "2026-05",
+"topic": "Tool use & function calling",
+"pct": 20.2,
+"papers": 163
+},
+{
+"month": "2026-06",
+"topic": "Tool use & function calling",
+"pct": 20.3,
+"papers": 175
+},
+{
+"month": "2026-07",
+"topic": "Tool use & function calling",
+"pct": 23.7,
+"papers": 175
+},
+{
+"month": "2026-08",
+"topic": "Tool use & function calling",
+"pct": 23.6,
+"papers": 183
+},
+{
+"month": "2026-09",
+"topic": "Tool use & function calling",
+"pct": 21.7,
+"papers": 160
+},
+{
+"month": "2026-10",
+"topic": "Tool use & function calling",
+"pct": 20.0,
+"papers": 91
+},
+{
+"month": "2025-11",
+"topic": "Multi-agent systems",
+"pct": 22.1,
+"papers": 53
+},
+{
+"month": "2025-12",
+"topic": "Multi-agent systems",
+"pct": 25.3,
+"papers": 138
+},
+{
+"month": "2026-01",
+"topic": "Multi-agent systems",
+"pct": 24.2,
+"papers": 101
+},
+{
+"month": "2026-02",
+"topic": "Multi-agent systems",
+"pct": 23.7,
+"papers": 98
+},
+{
+"month": "2026-03",
+"topic": "Multi-agent systems",
+"pct": 23.1,
+"papers": 194
+},
+{
+"month": "2026-04",
+"topic": "Multi-agent systems",
+"pct": 21.8,
+"papers": 198
+},
+{
+"month": "2026-05",
+"topic": "Multi-agent systems",
+"pct": 19.2,
+"papers": 155
+},
+{
+"month": "2026-06",
+"topic": "Multi-agent systems",
+"pct": 19.9,
+"papers": 171
+},
+{
+"month": "2026-07",
+"topic": "Multi-agent systems",
+"pct": 17.9,
+"papers": 132
+},
+{
+"month": "2026-08",
+"topic": "Multi-agent systems",
+"pct": 15.1,
+"papers": 117
+},
+{
+"month": "2026-09",
+"topic": "Multi-agent systems",
+"pct": 15.7,
+"papers": 116
+},
+{
+"month": "2026-10",
+"topic": "Multi-agent systems",
+"pct": 15.4,
+"papers": 70
+},
+{
+"month": "2025-11",
+"topic": "Safety & security",
+"pct": 14.6,
+"papers": 35
+},
+{
+"month": "2025-12",
+"topic": "Safety & security",
+"pct": 13.0,
+"papers": 71
+},
+{
+"month": "2026-01",
+"topic": "Safety & security",
+"pct": 11.3,
+"papers": 47
+},
+{
+"month": "2026-02",
+"topic": "Safety & security",
+"pct": 11.6,
+"papers": 48
+},
+{
+"month": "2026-03",
+"topic": "Safety & security",
+"pct": 14.1,
+"papers": 119
+},
+{
+"month": "2026-04",
+"topic": "Safety & security",
+"pct": 15.3,
+"papers": 139
+},
+{
+"month": "2026-05",
+"topic": "Safety & security",
+"pct": 15.1,
+"papers": 122
+},
+{
+"month": "2026-06",
+"topic": "Safety & security",
+"pct": 12.4,
+"papers": 107
+},
+{
+"month": "2026-07",
+"topic": "Safety & security",
+"pct": 14.8,
+"papers": 109
+},
+{
+"month": "2026-08",
+"topic": "Safety & security",
+"pct": 13.9,
+"papers": 108
+},
+{
+"month": "2026-09",
+"topic": "Safety & security",
+"pct": 11.2,
+"papers": 83
+},
+{
+"month": "2026-10",
+"topic": "Safety & security",
+"pct": 11.0,
+"papers": 50
+},
+{
+"month": "2025-11",
+"topic": "Planning",
+"pct": 12.5,
+"papers": 30
+},
+{
+"month": "2025-12",
+"topic": "Planning",
+"pct": 11.2,
+"papers": 61
+},
+{
+"month": "2026-01",
+"topic": "Planning",
+"pct": 11.5,
+"papers": 48
+},
+{
+"month": "2026-02",
+"topic": "Planning",
+"pct": 10.1,
+"papers": 42
+},
+{
+"month": "2026-03",
+"topic": "Planning",
+"pct": 11.1,
+"papers": 93
+},
+{
+"month": "2026-04",
+"topic": "Planning",
+"pct": 12.0,
+"papers": 109
+},
+{
+"month": "2026-05",
+"topic": "Planning",
+"pct": 10.8,
+"papers": 87
+},
+{
+"month": "2026-06",
+"topic": "Planning",
+"pct": 11.1,
+"papers": 96
+},
+{
+"month": "2026-07",
+"topic": "Planning",
+"pct": 8.5,
+"papers": 63
+},
+{
+"month": "2026-08",
+"topic": "Planning",
+"pct": 7.9,
+"papers": 61
+},
+{
+"month": "2026-09",
+"topic": "Planning",
+"pct": 9.2,
+"papers": 68
+},
+{
+"month": "2026-10",
+"topic": "Planning",
+"pct": 8.8,
+"papers": 40
+},
+{
+"month": "2025-11",
+"topic": "Coding & software agents",
+"pct": 2.5,
+"papers": 6
+},
+{
+"month": "2025-12",
+"topic": "Coding & software agents",
+"pct": 6.6,
+"papers": 36
+},
+{
+"month": "2026-01",
+"topic": "Coding & software agents",
+"pct": 6.5,
+"papers": 27
+},
+{
+"month": "2026-02",
+"topic": "Coding & software agents",
+"pct": 8.2,
+"papers": 34
+},
+{
+"month": "2026-03",
+"topic": "Coding & software agents",
+"pct": 7.0,
+"papers": 59
+},
+{
+"month": "2026-04",
+"topic": "Coding & software agents",
+"pct": 8.0,
+"papers": 73
+},
+{
+"month": "2026-05",
+"topic": "Coding & software agents",
+"pct": 7.9,
+"papers": 64
+},
+{
+"month": "2026-06",
+"topic": "Coding & software agents",
+"pct": 8.1,
+"papers": 70
+},
+{
+"month": "2026-07",
+"topic": "Coding & software agents",
+"pct": 9.6,
+"papers": 71
+},
+{
+"month": "2026-08",
+"topic": "Coding & software agents",
+"pct": 10.8,
+"papers": 84
+},
+{
+"month": "2026-09",
+"topic": "Coding & software agents",
+"pct": 11.4,
+"papers": 84
+},
+{
+"month": "2026-10",
+"topic": "Coding & software agents",
+"pct": 12.3,
+"papers": 56
+},
+{
+"month": "2025-11",
+"topic": "Embodied & robotics",
+"pct": 12.1,
+"papers": 29
+},
+{
+"month": "2025-12",
+"topic": "Embodied & robotics",
+"pct": 10.3,
+"papers": 56
+},
+{
+"month": "2026-01",
+"topic": "Embodied & robotics",
+"pct": 6.0,
+"papers": 25
+},
+{
+"month": "2026-02",
+"topic": "Embodied & robotics",
+"pct": 9.4,
+"papers": 39
+},
+{
+"month": "2026-03",
+"topic": "Embodied & robotics",
+"pct": 9.5,
+"papers": 80
+},
+{
+"month": "2026-04",
+"topic": "Embodied & robotics",
+"pct": 8.3,
+"papers": 75
+},
+{
+"month": "2026-05",
+"topic": "Embodied & robotics",
+"pct": 6.6,
+"papers": 53
+},
+{
+"month": "2026-06",
+"topic": "Embodied & robotics",
+"pct": 8.5,
+"papers": 73
+},
+{
+"month": "2026-07",
+"topic": "Embodied & robotics",
+"pct": 7.0,
+"papers": 52
+},
+{
+"month": "2026-08",
+"topic": "Embodied & robotics",
+"pct": 5.8,
+"papers": 45
+},
+{
+"month": "2026-09",
+"topic": "Embodied & robotics",
+"pct": 7.6,
+"papers": 56
+},
+{
+"month": "2026-10",
+"topic": "Embodied & robotics",
+"pct": 7.3,
+"papers": 33
+},
+{
+"month": "2025-11",
+"topic": "GUI, web & computer use",
+"pct": 7.5,
+"papers": 18
+},
+{
+"month": "2025-12",
+"topic": "GUI, web & computer use",
+"pct": 4.8,
+"papers": 26
+},
+{
+"month": "2026-01",
+"topic": "GUI, web & computer use",
+"pct": 3.8,
+"papers": 16
+},
+{
+"month": "2026-02",
+"topic": "GUI, web & computer use",
+"pct": 3.6,
+"papers": 15
+},
+{
+"month": "2026-03",
+"topic": "GUI, web & computer use",
+"pct": 7.1,
+"papers": 60
+},
+{
+"month": "2026-04",
+"topic": "GUI, web & computer use",
+"pct": 5.6,
+"papers": 51
+},
+{
+"month": "2026-05",
+"topic": "GUI, web & computer use",
+"pct": 5.8,
+"papers": 47
+},
+{
+"month": "2026-06",
+"topic": "GUI, web & computer use",
+"pct": 7.0,
+"papers": 60
+},
+{
+"month": "2026-07",
+"topic": "GUI, web & computer use",
+"pct": 4.7,
+"papers": 35
+},
+{
+"month": "2026-08",
+"topic": "GUI, web & computer use",
+"pct": 5.2,
+"papers": 40
+},
+{
+"month": "2026-09",
+"topic": "GUI, web & computer use",
+"pct": 6.0,
+"papers": 44
+},
+{
+"month": "2026-10",
+"topic": "GUI, web & computer use",
+"pct": 5.7,
+"papers": 26
+},
+{
+"month": "2025-11",
+"topic": "Self-improving agents",
+"pct": 4.6,
+"papers": 11
+},
+{
+"month": "2025-12",
+"topic": "Self-improving agents",
+"pct": 4.0,
+"papers": 22
+},
+{
+"month": "2026-01",
+"topic": "Self-improving agents",
+"pct": 4.1,
+"papers": 17
+},
+{
+"month": "2026-02",
+"topic": "Self-improving agents",
+"pct": 3.9,
+"papers": 16
+},
+{
+"month": "2026-03",
+"topic": "Self-improving agents",
+"pct": 5.0,
+"papers": 42
+},
+{
+"month": "2026-04",
+"topic": "Self-improving agents",
+"pct": 3.4,
+"papers": 31
+},
+{
+"month": "2026-05",
+"topic": "Self-improving agents",
+"pct": 5.0,
+"papers": 40
+},
+{
+"month": "2026-06",
+"topic": "Self-improving agents",
+"pct": 5.7,
+"papers": 49
+},
+{
+"month": "2026-07",
+"topic": "Self-improving agents",
+"pct": 4.1,
+"papers": 30
+},
+{
+"month": "2026-08",
+"topic": "Self-improving agents",
+"pct": 5.0,
+"papers": 39
+},
+{
+"month": "2026-09",
+"topic": "Self-improving agents",
+"pct": 4.6,
+"papers": 34
+},
+{
+"month": "2026-10",
+"topic": "Self-improving agents",
+"pct": 7.0,
+"papers": 32
+},
+{
+"month": "2025-11",
+"topic": "Deep research & science",
+"pct": 2.1,
+"papers": 5
+},
+{
+"month": "2025-12",
+"topic": "Deep research & science",
+"pct": 3.1,
+"papers": 17
+},
+{
+"month": "2026-01",
+"topic": "Deep research & science",
+"pct": 2.9,
+"papers": 12
+},
+{
+"month": "2026-02",
+"topic": "Deep research & science",
+"pct": 4.1,
+"papers": 17
+},
+{
+"month": "2026-03",
+"topic": "Deep research & science",
+"pct": 3.4,
+"papers": 29
+},
+{
+"month": "2026-04",
+"topic": "Deep research & science",
+"pct": 3.5,
+"papers": 32
+},
+{
+"month": "2026-05",
+"topic": "Deep research & science",
+"pct": 3.7,
+"papers": 30
+},
+{
+"month": "2026-06",
+"topic": "Deep research & science",
+"pct": 2.8,
+"papers": 24
+},
+{
+"month": "2026-07",
+"topic": "Deep research & science",
+"pct": 3.5,
+"papers": 26
+},
+{
+"month": "2026-08",
+"topic": "Deep research & science",
+"pct": 2.2,
+"papers": 17
+},
+{
+"month": "2026-09",
+"topic": "Deep research & science",
+"pct": 2.7,
+"papers": 20
+},
+{
+"month": "2026-10",
+"topic": "Deep research & science",
+"pct": 2.9,
+"papers": 13
+},
+{
+"month": "2025-11",
+"topic": "MCP & agent protocols",
+"pct": 0.0,
+"papers": 0
+},
+{
+"month": "2025-12",
+"topic": "MCP & agent protocols",
+"pct": 1.6,
+"papers": 9
+},
+{
+"month": "2026-01",
+"topic": "MCP & agent protocols",
+"pct": 1.0,
+"papers": 4
+},
+{
+"month": "2026-02",
+"topic": "MCP & agent protocols",
+"pct": 1.4,
+"papers": 6
+},
+{
+"month": "2026-03",
+"topic": "MCP & agent protocols",
+"pct": 0.7,
+"papers": 6
+},
+{
+"month": "2026-04",
+"topic": "MCP & agent protocols",
+"pct": 1.5,
+"papers": 14
+},
+{
+"month": "2026-05",
+"topic": "MCP & agent protocols",
+"pct": 1.9,
+"papers": 15
+},
+{
+"month": "2026-06",
+"topic": "MCP & agent protocols",
+"pct": 1.0,
+"papers": 9
+},
+{
+"month": "2026-07",
+"topic": "MCP & agent protocols",
+"pct": 0.7,
+"papers": 5
+},
+{
+"month": "2026-08",
+"topic": "MCP & agent protocols",
+"pct": 1.4,
+"papers": 11
+},
+{
+"month": "2026-09",
+"topic": "MCP & agent protocols",
+"pct": 0.9,
+"papers": 7
+},
+{
+"month": "2026-10",
+"topic": "MCP & agent protocols",
+"pct": 1.5,
+"papers": 7
+}
+]

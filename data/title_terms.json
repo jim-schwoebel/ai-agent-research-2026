@@ -1,0 +1,434 @@
+[
+{
+"month": "2025-11",
+"term": "Agent harness",
+"titles": 1,
+"per_10k": 2.9
+},
+{
+"month": "2025-12",
+"term": "Agent harness",
+"titles": 1,
+"per_10k": 1.7
+},
+{
+"month": "2026-01",
+"term": "Agent harness",
+"titles": 0,
+"per_10k": 0.0
+},
+{
+"month": "2026-02",
+"term": "Agent harness",
+"titles": 2,
+"per_10k": 5.2
+},
+{
+"month": "2026-03",
+"term": "Agent harness",
+"titles": 3,
+"per_10k": 3.7
+},
+{
+"month": "2026-04",
+"term": "Agent harness",
+"titles": 2,
+"per_10k": 2.4
+},
+{
+"month": "2026-05",
+"term": "Agent harness",
+"titles": 11,
+"per_10k": 14.7
+},
+{
+"month": "2026-06",
+"term": "Agent harness",
+"titles": 19,
+"per_10k": 27.2
+},
+{
+"month": "2026-07",
+"term": "Agent harness",
+"titles": 21,
+"per_10k": 33.8
+},
+{
+"month": "2026-08",
+"term": "Agent harness",
+"titles": 29,
+"per_10k": 50.5
+},
+{
+"month": "2026-09",
+"term": "Agent harness",
+"titles": 27,
+"per_10k": 42.6
+},
+{
+"month": "2026-10",
+"term": "Agent harness",
+"titles": 20,
+"per_10k": 62.4
+},
+{
+"month": "2025-11",
+"term": "Agent skills",
+"titles": 0,
+"per_10k": 0.0
+},
+{
+"month": "2025-12",
+"term": "Agent skills",
+"titles": 3,
+"per_10k": 5.1
+},
+{
+"month": "2026-01",
+"term": "Agent skills",
+"titles": 2,
+"per_10k": 5.4
+},
+{
+"month": "2026-02",
+"term": "Agent skills",
+"titles": 1,
+"per_10k": 2.6
+},
+{
+"month": "2026-03",
+"term": "Agent skills",
+"titles": 14,
+"per_10k": 17.0
+},
+{
+"month": "2026-04",
+"term": "Agent skills",
+"titles": 15,
+"per_10k": 17.8
+},
+{
+"month": "2026-05",
+"term": "Agent skills",
+"titles": 25,
+"per_10k": 33.4
+},
+{
+"month": "2026-06",
+"term": "Agent skills",
+"titles": 41,
+"per_10k": 58.6
+},
+{
+"month": "2026-07",
+"term": "Agent skills",
+"titles": 20,
+"per_10k": 32.1
+},
+{
+"month": "2026-08",
+"term": "Agent skills",
+"titles": 31,
+"per_10k": 54.0
+},
+{
+"month": "2026-09",
+"term": "Agent skills",
+"titles": 21,
+"per_10k": 33.1
+},
+{
+"month": "2026-10",
+"term": "Agent skills",
+"titles": 9,
+"per_10k": 28.1
+},
+{
+"month": "2025-11",
+"term": "World models",
+"titles": 14,
+"per_10k": 41.1
+},
+{
+"month": "2025-12",
+"term": "World models",
+"titles": 43,
+"per_10k": 73.1
+},
+{
+"month": "2026-01",
+"term": "World models",
+"titles": 8,
+"per_10k": 21.6
+},
+{
+"month": "2026-02",
+"term": "World models",
+"titles": 22,
+"per_10k": 56.7
+},
+{
+"month": "2026-03",
+"term": "World models",
+"titles": 67,
+"per_10k": 81.5
+},
+{
+"month": "2026-04",
+"term": "World models",
+"titles": 41,
+"per_10k": 48.6
+},
+{
+"month": "2026-05",
+"term": "World models",
+"titles": 75,
+"per_10k": 100.3
+},
+{
+"month": "2026-06",
+"term": "World models",
+"titles": 75,
+"per_10k": 107.3
+},
+{
+"month": "2026-07",
+"term": "World models",
+"titles": 62,
+"per_10k": 99.6
+},
+{
+"month": "2026-08",
+"term": "World models",
+"titles": 59,
+"per_10k": 102.8
+},
+{
+"month": "2026-09",
+"term": "World models",
+"titles": 64,
+"per_10k": 100.9
+},
+{
+"month": "2026-10",
+"term": "World models",
+"titles": 38,
+"per_10k": 118.6
+},
+{
+"month": "2025-11",
+"term": "Long-horizon",
+"titles": 3,
+"per_10k": 8.8
+},
+{
+"month": "2025-12",
+"term": "Long-horizon",
+"titles": 13,
+"per_10k": 22.1
+},
+{
+"month": "2026-01",
+"term": "Long-horizon",
+"titles": 8,
+"per_10k": 21.6
+},
+{
+"month": "2026-02",
+"term": "Long-horizon",
+"titles": 19,
+"per_10k": 49.0
+},
+{
+"month": "2026-03",
+"term": "Long-horizon",
+"titles": 24,
+"per_10k": 29.2
+},
+{
+"month": "2026-04",
+"term": "Long-horizon",
+"titles": 25,
+"per_10k": 29.6
+},
+{
+"month": "2026-05",
+"term": "Long-horizon",
+"titles": 37,
+"per_10k": 49.5
+},
+{
+"month": "2026-06",
+"term": "Long-horizon",
+"titles": 36,
+"per_10k": 51.5
+},
+{
+"month": "2026-07",
+"term": "Long-horizon",
+"titles": 30,
+"per_10k": 48.2
+},
+{
+"month": "2026-08",
+"term": "Long-horizon",
+"titles": 38,
+"per_10k": 66.2
+},
+{
+"month": "2026-09",
+"term": "Long-horizon",
+"titles": 36,
+"per_10k": 56.8
+},
+{
+"month": "2026-10",
+"term": "Long-horizon",
+"titles": 25,
+"per_10k": 78.1
+},
+{
+"month": "2025-11",
+"term": "Multi-agent",
+"titles": 29,
+"per_10k": 85.1
+},
+{
+"month": "2025-12",
+"term": "Multi-agent",
+"titles": 67,
+"per_10k": 113.8
+},
+{
+"month": "2026-01",
+"term": "Multi-agent",
+"titles": 46,
+"per_10k": 124.2
+},
+{
+"month": "2026-02",
+"term": "Multi-agent",
+"titles": 57,
+"per_10k": 146.9
+},
+{
+"month": "2026-03",
+"term": "Multi-agent",
+"titles": 90,
+"per_10k": 109.5
+},
+{
+"month": "2026-04",
+"term": "Multi-agent",
+"titles": 104,
+"per_10k": 123.3
+},
+{
+"month": "2026-05",
+"term": "Multi-agent",
+"titles": 87,
+"per_10k": 116.3
+},
+{
+"month": "2026-06",
+"term": "Multi-agent",
+"titles": 90,
+"per_10k": 128.7
+},
+{
+"month": "2026-07",
+"term": "Multi-agent",
+"titles": 72,
+"per_10k": 115.7
+},
+{
+"month": "2026-08",
+"term": "Multi-agent",
+"titles": 60,
+"per_10k": 104.5
+},
+{
+"month": "2026-09",
+"term": "Multi-agent",
+"titles": 57,
+"per_10k": 89.9
+},
+{
+"month": "2026-10",
+"term": "Multi-agent",
+"titles": 37,
+"per_10k": 115.5
+},
+{
+"month": "2025-11",
+"term": "GUI & computer use",
+"titles": 5,
+"per_10k": 14.7
+},
+{
+"month": "2025-12",
+"term": "GUI & computer use",
+"titles": 7,
+"per_10k": 11.9
+},
+{
+"month": "2026-01",
+"term": "GUI & computer use",
+"titles": 3,
+"per_10k": 8.1
+},
+{
+"month": "2026-02",
+"term": "GUI & computer use",
+"titles": 6,
+"per_10k": 15.5
+},
+{
+"month": "2026-03",
+"term": "GUI & computer use",
+"titles": 25,
+"per_10k": 30.4
+},
+{
+"month": "2026-04",
+"term": "GUI & computer use",
+"titles": 20,
+"per_10k": 23.7
+},
+{
+"month": "2026-05",
+"term": "GUI & computer use",
+"titles": 24,
+"per_10k": 32.1
+},
+{
+"month": "2026-06",
+"term": "GUI & computer use",
+"titles": 16,
+"per_10k": 22.9
+},
+{
+"month": "2026-07",
+"term": "GUI & computer use",
+"titles": 13,
+"per_10k": 20.9
+},
+{
+"month": "2026-08",
+"term": "GUI & computer use",
+"titles": 13,
+"per_10k": 22.6
+},
+{
+"month": "2026-09",
+"term": "GUI & computer use",
+"titles": 15,
+"per_10k": 23.6
+},
+{
+"month": "2026-10",
+"term": "GUI & computer use",
+"titles": 7,
+"per_10k": 21.9
+}
+]

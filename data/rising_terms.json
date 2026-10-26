@@ -1,0 +1,290 @@
+[
+{
+"corpus": "Papers",
+"term": "harness",
+"first_half": 5,
+"second_half": 79,
+"ratio": 10.26,
+"direction": "Rising"
+},
+{
+"corpus": "Papers",
+"term": "skills",
+"first_half": 33,
+"second_half": 134,
+"ratio": 3.06,
+"direction": "Rising"
+},
+{
+"corpus": "Papers",
+"term": "auditing",
+"first_half": 9,
+"second_half": 36,
+"ratio": 2.85,
+"direction": "Rising"
+},
+{
+"corpus": "Papers",
+"term": "recursive",
+"first_half": 8,
+"second_half": 32,
+"ratio": 2.82,
+"direction": "Rising"
+},
+{
+"corpus": "Papers",
+"term": "measuring",
+"first_half": 12,
+"second_half": 39,
+"ratio": 2.37,
+"direction": "Rising"
+},
+{
+"corpus": "Papers",
+"term": "evidence",
+"first_half": 23,
+"second_half": 72,
+"ratio": 2.34,
+"direction": "Rising"
+},
+{
+"corpus": "Papers",
+"term": "credit",
+"first_half": 13,
+"second_half": 38,
+"ratio": 2.14,
+"direction": "Rising"
+},
+{
+"corpus": "Papers",
+"term": "compression",
+"first_half": 13,
+"second_half": 34,
+"ratio": 1.92,
+"direction": "Rising"
+},
+{
+"corpus": "Papers",
+"term": "verifiable",
+"first_half": 11,
+"second_half": 29,
+"ratio": 1.92,
+"direction": "Rising"
+},
+{
+"corpus": "Papers",
+"term": "evolution",
+"first_half": 21,
+"second_half": 54,
+"ratio": 1.92,
+"direction": "Rising"
+},
+{
+"corpus": "Papers",
+"term": "frontier",
+"first_half": 14,
+"second_half": 36,
+"ratio": 1.9,
+"direction": "Rising"
+},
+{
+"corpus": "Papers",
+"term": "injection",
+"first_half": 12,
+"second_half": 30,
+"ratio": 1.84,
+"direction": "Rising"
+},
+{
+"corpus": "Papers",
+"term": "coding",
+"first_half": 31,
+"second_half": 75,
+"ratio": 1.83,
+"direction": "Rising"
+},
+{
+"corpus": "Papers",
+"term": "long-horizon",
+"first_half": 56,
+"second_half": 127,
+"ratio": 1.73,
+"direction": "Rising"
+},
+{
+"corpus": "Papers",
+"term": "synthetic",
+"first_half": 34,
+"second_half": 18,
+"ratio": 0.42,
+"direction": "Falling"
+},
+{
+"corpus": "Papers",
+"term": "theory",
+"first_half": 28,
+"second_half": 15,
+"ratio": 0.42,
+"direction": "Falling"
+},
+{
+"corpus": "Papers",
+"term": "enhancing",
+"first_half": 43,
+"second_half": 24,
+"ratio": 0.44,
+"direction": "Falling"
+},
+{
+"corpus": "Papers",
+"term": "vision",
+"first_half": 28,
+"second_half": 16,
+"ratio": 0.45,
+"direction": "Falling"
+},
+{
+"corpus": "Papers",
+"term": "scalable",
+"first_half": 55,
+"second_half": 33,
+"ratio": 0.47,
+"direction": "Falling"
+},
+{
+"corpus": "Papers",
+"term": "collaborative",
+"first_half": 47,
+"second_half": 28,
+"ratio": 0.47,
+"direction": "Falling"
+},
+{
+"corpus": "Papers",
+"term": "multi-agent system",
+"first_half": 25,
+"second_half": 17,
+"ratio": 0.53,
+"direction": "Falling"
+},
+{
+"corpus": "Papers",
+"term": "management",
+"first_half": 26,
+"second_half": 18,
+"ratio": 0.54,
+"direction": "Falling"
+},
+{
+"corpus": "News",
+"term": "fable",
+"first_half": 0,
+"second_half": 63,
+"ratio": 45.03,
+"direction": "Rising"
+},
+{
+"corpus": "News",
+"term": "gpt-6",
+"first_half": 0,
+"second_half": 37,
+"ratio": 26.74,
+"direction": "Rising"
+},
+{
+"corpus": "News",
+"term": "gpt-5.6",
+"first_half": 0,
+"second_half": 33,
+"ratio": 23.92,
+"direction": "Rising"
+},
+{
+"corpus": "News",
+"term": "coreweave",
+"first_half": 1,
+"second_half": 32,
+"ratio": 11.61,
+"direction": "Rising"
+},
+{
+"corpus": "News",
+"term": "astra",
+"first_half": 1,
+"second_half": 31,
+"ratio": 11.26,
+"direction": "Rising"
+},
+{
+"corpus": "News",
+"term": "muse",
+"first_half": 8,
+"second_half": 137,
+"ratio": 10.79,
+"direction": "Rising"
+},
+{
+"corpus": "News",
+"term": "meta muse",
+"first_half": 2,
+"second_half": 37,
+"ratio": 8.91,
+"direction": "Rising"
+},
+{
+"corpus": "News",
+"term": "hacked",
+"first_half": 3,
+"second_half": 49,
+"ratio": 8.8,
+"direction": "Rising"
+},
+{
+"corpus": "News",
+"term": "shipped",
+"first_half": 3,
+"second_half": 28,
+"ratio": 5.1,
+"direction": "Rising"
+},
+{
+"corpus": "News",
+"term": "hugging face",
+"first_half": 9,
+"second_half": 68,
+"ratio": 4.86,
+"direction": "Rising"
+},
+{
+"corpus": "News",
+"term": "rogue",
+"first_half": 21,
+"second_half": 116,
+"ratio": 3.74,
+"direction": "Rising"
+},
+{
+"corpus": "News",
+"term": "approval",
+"first_half": 5,
+"second_half": 28,
+"ratio": 3.4,
+"direction": "Rising"
+},
+{
+"corpus": "News",
+"term": "harness",
+"first_half": 33,
+"second_half": 158,
+"ratio": 3.29,
+"direction": "Rising"
+},
+{
+"corpus": "News",
+"term": "grok",
+"first_half": 10,
+"second_half": 49,
+"ratio": 3.2,
+"direction": "Rising"
+}
+]

@@ -1,0 +1,34 @@
+[
+{
+"category": "cs.CL",
+"papers": 17196,
+"agent_papers": 3432,
+"agent_pct": 20.0,
+"first_q_pct": 16.3,
+"last_q_pct": 22.8
+},
+{
+"category": "cs.LG",
+"papers": 25942,
+"agent_papers": 2735,
+"agent_pct": 10.5,
+"first_q_pct": 9.3,
+"last_q_pct": 11.1
+},
+{
+"category": "cs.CV",
+"papers": 21046,
+"agent_papers": 1412,
+"agent_pct": 6.7,
+"first_q_pct": 5.6,
+"last_q_pct": 7.6
+},
+{
+"category": "stat.ML",
+"papers": 5329,
+"agent_papers": 160,
+"agent_pct": 3.0,
+"first_q_pct": 2.4,
+"last_q_pct": 3.6
+}
+]

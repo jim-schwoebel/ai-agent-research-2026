@@ -1,0 +1,122 @@
+[
+{
+"month": "2025-11",
+"papers": 3407,
+"news": 8106,
+"agent_papers": 240,
+"agent_news": 730,
+"agent_paper_pct": 7.04,
+"agent_news_pct": 9.01,
+"agent_title_paper_pct": 3.11
+},
+{
+"month": "2025-12",
+"papers": 5886,
+"news": 11595,
+"agent_papers": 546,
+"agent_news": 1017,
+"agent_paper_pct": 9.28,
+"agent_news_pct": 8.77,
+"agent_title_paper_pct": 4.26
+},
+{
+"month": "2026-01",
+"papers": 3704,
+"news": 11485,
+"agent_papers": 417,
+"agent_news": 1069,
+"agent_paper_pct": 11.26,
+"agent_news_pct": 9.31,
+"agent_title_paper_pct": 5.1
+},
+{
+"month": "2026-02",
+"papers": 3879,
+"news": 12900,
+"agent_papers": 414,
+"agent_news": 1521,
+"agent_paper_pct": 10.67,
+"agent_news_pct": 11.79,
+"agent_title_paper_pct": 5.39
+},
+{
+"month": "2026-03",
+"papers": 8218,
+"news": 14443,
+"agent_papers": 841,
+"agent_news": 1723,
+"agent_paper_pct": 10.23,
+"agent_news_pct": 11.93,
+"agent_title_paper_pct": 4.9
+},
+{
+"month": "2026-04",
+"papers": 8438,
+"news": 14256,
+"agent_papers": 908,
+"agent_news": 1728,
+"agent_paper_pct": 10.76,
+"agent_news_pct": 12.12,
+"agent_title_paper_pct": 5.83
+},
+{
+"month": "2026-05",
+"papers": 7480,
+"news": 13812,
+"agent_papers": 806,
+"agent_news": 1797,
+"agent_paper_pct": 10.78,
+"agent_news_pct": 13.01,
+"agent_title_paper_pct": 5.71
+},
+{
+"month": "2026-06",
+"papers": 6993,
+"news": 14130,
+"agent_papers": 861,
+"agent_news": 1825,
+"agent_paper_pct": 12.31,
+"agent_news_pct": 12.92,
+"agent_title_paper_pct": 7.21
+},
+{
+"month": "2026-07",
+"papers": 6222,
+"news": 14065,
+"agent_papers": 738,
+"agent_news": 1770,
+"agent_paper_pct": 11.86,
+"agent_news_pct": 12.58,
+"agent_title_paper_pct": 5.96
+},
+{
+"month": "2026-08",
+"papers": 5740,
+"news": 13306,
+"agent_papers": 776,
+"agent_news": 1834,
+"agent_paper_pct": 13.52,
+"agent_news_pct": 13.78,
+"agent_title_paper_pct": 7.35
+},
+{
+"month": "2026-09",
+"papers": 6343,
+"news": 13492,
+"agent_papers": 738,
+"agent_news": 2138,
+"agent_paper_pct": 11.63,
+"agent_news_pct": 15.85,
+"agent_title_paper_pct": 6.09
+},
+{
+"month": "2026-10",
+"papers": 3203,
+"news": 10807,
+"agent_papers": 454,
+"agent_news": 1704,
+"agent_paper_pct": 14.17,
+"agent_news_pct": 15.77,
+"agent_title_paper_pct": 7.84
+}
+]

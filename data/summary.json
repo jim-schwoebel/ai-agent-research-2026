@@ -1,0 +1,22 @@
+[
+{
+"papers": 69513,
+"news": 152397,
+"agent_papers": 7739,
+"agent_news": 18856,
+"agent_paper_pct": 11.1,
+"agent_news_pct": 12.4,
+"paper_pct_first_q": 9.3,
+"paper_pct_last_q": 12.9,
+"news_pct_first_q": 9.0,
+"news_pct_last_q": 15.1,
+"paper_first": "2025-11-14",
+"paper_last": "2026-10-22",
+"news_first": "2025-11-06",
+"news_last": "2026-10-26",
+"first_q": "Nov 2025 – Jan 2026",
+"last_q": "Aug – Oct 2026",
+"arxiv_feeds": 4,
+"news_feeds": 230
+}
+]

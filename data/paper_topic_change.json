@@ -1,0 +1,106 @@
+[
+{
+"topic": "Coding & software agents",
+"papers": 664,
+"pct": 8.6,
+"first_q_pct": 5.7,
+"last_q_pct": 11.4,
+"change_pts": 5.6
+},
+{
+"topic": "Memory & long-horizon",
+"papers": 1619,
+"pct": 20.9,
+"first_q_pct": 17.3,
+"last_q_pct": 22.2,
+"change_pts": 4.9
+},
+{
+"topic": "Tool use & function calling",
+"papers": 1606,
+"pct": 20.8,
+"first_q_pct": 19.3,
+"last_q_pct": 22.1,
+"change_pts": 2.8
+},
+{
+"topic": "Benchmarks & evaluation",
+"papers": 3904,
+"pct": 50.4,
+"first_q_pct": 48.3,
+"last_q_pct": 50.4,
+"change_pts": 2.1
+},
+{
+"topic": "Self-improving agents",
+"papers": 363,
+"pct": 4.7,
+"first_q_pct": 4.2,
+"last_q_pct": 5.3,
+"change_pts": 1.2
+},
+{
+"topic": "GUI, web & computer use",
+"papers": 438,
+"pct": 5.7,
+"first_q_pct": 5.0,
+"last_q_pct": 5.6,
+"change_pts": 0.6
+},
+{
+"topic": "MCP & agent protocols",
+"papers": 93,
+"pct": 1.2,
+"first_q_pct": 1.1,
+"last_q_pct": 1.3,
+"change_pts": 0.2
+},
+{
+"topic": "Deep research & science",
+"papers": 242,
+"pct": 3.1,
+"first_q_pct": 2.8,
+"last_q_pct": 2.5,
+"change_pts": -0.3
+},
+{
+"topic": "Safety & security",
+"papers": 1038,
+"pct": 13.4,
+"first_q_pct": 12.7,
+"last_q_pct": 12.2,
+"change_pts": -0.5
+},
+{
+"topic": "Embodied & robotics",
+"papers": 616,
+"pct": 8.0,
+"first_q_pct": 9.1,
+"last_q_pct": 6.8,
+"change_pts": -2.3
+},
+{
+"topic": "Planning",
+"papers": 798,
+"pct": 10.3,
+"first_q_pct": 11.6,
+"last_q_pct": 8.6,
+"change_pts": -3.0
+},
+{
+"topic": "RL training of agents",
+"papers": 1845,
+"pct": 23.8,
+"first_q_pct": 29.2,
+"last_q_pct": 21.3,
+"change_pts": -7.9
+},
+{
+"topic": "Multi-agent systems",
+"papers": 1543,
+"pct": 19.9,
+"first_q_pct": 24.3,
+"last_q_pct": 15.4,
+"change_pts": -8.9
+}
+]

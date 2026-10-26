@@ -1,0 +1,9 @@
+archive/
+*.log
+*.aux
+*.out
+__pycache__/
+.DS_Store
+*.parquet
+*.csv.gz
+full.csv

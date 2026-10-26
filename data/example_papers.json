@@ -1,0 +1,170 @@
+[
+{
+"theme": "Agent harness",
+"date": "2026-10-22",
+"title": "Harness Scaling for Generalizable Agentic Reinforcement Learning",
+"category": "cs.CL",
+"url": "https://arxiv.org/abs/2610.29458"
+},
+{
+"theme": "Agent harness",
+"date": "2026-10-22",
+"title": "Real PMIDs, Wrong Papers: Harness Design for Biomedical Claim-Verification Agents",
+"category": "cs.CL",
+"url": "https://arxiv.org/abs/2610.29812"
+},
+{
+"theme": "Agent harness",
+"date": "2026-10-16",
+"title": "HarnessMDP: Learning to Control LLM Agent Harnesses with Offline Reinforcement Learning",
+"category": "cs.LG",
+"url": "https://arxiv.org/abs/2607.05458"
+},
+{
+"theme": "Agent harness",
+"date": "2026-10-16",
+"title": "Knowledge Graphs as Files: An Agent Harness Where Tool Creation and Tool Use Co-Evolve",
+"category": "cs.CL",
+"url": "https://arxiv.org/abs/2610.18616"
+},
+{
+"theme": "Agent skills",
+"date": "2026-10-16",
+"title": "CausalEvo: Causal Skill Self-Evolution for Health LLM Agents",
+"category": "cs.LG",
+"url": "https://arxiv.org/abs/2610.21016"
+},
+{
+"theme": "Agent skills",
+"date": "2026-10-16",
+"title": "SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills",
+"category": "cs.CL",
+"url": "https://arxiv.org/abs/2610.20926"
+},
+{
+"theme": "Agent skills",
+"date": "2026-10-16",
+"title": "Evolving Together, Failing Apart: The Skill-Policy Co-evolution Trap in Self-Improving Agents",
+"category": "cs.CL",
+"url": "https://arxiv.org/abs/2610.20845"
+},
+{
+"theme": "Agent skills",
+"date": "2026-10-08",
+"title": "SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning",
+"category": "cs.LG",
+"url": "https://arxiv.org/abs/2602.08234"
+},
+{
+"theme": "Coding agents",
+"date": "2026-10-22",
+"title": "The Best Programming Language for Tokenmaxxing: An Investigation of Coding Agent Behavior Across Programming Languages",
+"category": "cs.CL",
+"url": "https://arxiv.org/abs/2607.22807"
+},
+{
+"theme": "Coding agents",
+"date": "2026-10-16",
+"title": "OPRD: On-Policy Reminder Distillation for Long-Horizon Coding Agents",
+"category": "cs.CL",
+"url": "https://arxiv.org/abs/2610.21496"
+},
+{
+"theme": "Coding agents",
+"date": "2026-10-16",
+"title": "Mallea: Building, Steering, and Memorizing Worlds with Coding Agent",
+"category": "cs.CV",
+"url": "https://arxiv.org/abs/2610.21283"
+},
+{
+"theme": "Coding agents",
+"date": "2026-10-07",
+"title": "AgSpec: Pushing the Limits of Retrieval-Based Speculative Decoding in Coding Agent Pipelines",
+"category": "cs.CL",
+"url": "https://arxiv.org/abs/2610.01108"
+},
+{
+"theme": "Computer use",
+"date": "2026-10-16",
+"title": "OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents",
+"category": "cs.CV",
+"url": "https://arxiv.org/abs/2610.22234"
+},
+{
+"theme": "Computer use",
+"date": "2026-10-05",
+"title": "DeskForge: Dense Supervision from Desktop Environments for Computer-Use Agents",
+"category": "cs.CV",
+"url": "https://arxiv.org/abs/2610.02320"
+},
+{
+"theme": "Computer use",
+"date": "2026-10-03",
+"title": "ROGUE: Evaluating Corrigibility Failures in Frontier Computer-Use Agents",
+"category": "cs.LG",
+"url": "https://arxiv.org/abs/2606.00341"
+},
+{
+"theme": "Computer use",
+"date": "2026-10-03",
+"title": "GUI-HARVEST: Self-Improving GUI Agents through Evidence-Driven Harness Evolution",
+"category": "cs.LG",
+"url": "https://arxiv.org/abs/2610.00948"
+},
+{
+"theme": "Long-horizon",
+"date": "2026-10-22",
+"title": "Scaling Verifiable Environments for Long-horizon Work Agents",
+"category": "cs.CL",
+"url": "https://arxiv.org/abs/2610.04906"
+},
+{
+"theme": "Long-horizon",
+"date": "2026-10-22",
+"title": "FlashNext-RL: A System Optimization Study for Long-Horizon Agentic RL of Qwen3.8-Flash-Next",
+"category": "cs.CL",
+"url": "https://arxiv.org/abs/2610.28998"
+},
+{
+"theme": "Long-horizon",
+"date": "2026-10-22",
+"title": "Uni-Mem: Learning a Long-Horizon Agentic Memory Manager with Unified Online Policy Optimization",
+"category": "cs.CL",
+"url": "https://arxiv.org/abs/2610.29671"
+},
+{
+"theme": "Long-horizon",
+"date": "2026-10-16",
+"title": "Kolab: Benchmarking Human-Agent Collaboration in Long-Horizon Workflows",
+"category": "cs.CL",
+"url": "https://arxiv.org/abs/2610.21109"
+},
+{
+"theme": "Agent security",
+"date": "2026-10-16",
+"title": "Language Is a Security Surface for Agent Guards",
+"category": "cs.CL",
+"url": "https://arxiv.org/abs/2610.22244"
+},
+{
+"theme": "Agent security",
+"date": "2026-10-16",
+"title": "MIRAGE: Stealthy Visual Prompt Injection for Vulnerability Detection in Web Agents",
+"category": "cs.CV",
+"url": "https://arxiv.org/abs/2606.20717"
+},
+{
+"theme": "Agent security",
+"date": "2026-10-08",
+"title": "RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents",
+"category": "cs.LG",
+"url": "https://arxiv.org/abs/2610.06401"
+},
+{
+"theme": "Agent security",
+"date": "2026-10-07",
+"title": "Where Rules End and Judges Begin: Measuring the Judgment Boundary in Multi-Agent Systems Security",
+"category": "cs.CL",
+"url": "https://arxiv.org/abs/2610.07657"
+}
+]

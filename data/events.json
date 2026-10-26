@@ -1,0 +1,79 @@
+[
+{
+"date": "2025-11-24",
+"label": "Claude Opus 4.5",
+"headline": "Claude Opus 4.5",
+"source": "Hacker news",
+"url": "https://www.anthropic.com/news/claude-opus-4-5"
+},
+{
+"date": "2025-12-13",
+"label": "Skills spread",
+"headline": "OpenAI quietly adopts Anthropic’s modular skills framework to boost agent capabilities",
+"source": "THE DECODER",
+"url": "https://the-decoder.com/openai-quietly-adopts-anthropics-modular-skills-framework-to-boost-agent-capabilities/"
+},
+{
+"date": "2026-01-25",
+"label": "Clawdbot / OpenClaw",
+"headline": "A look at Clawdbot, an open-source personal AI agent that runs locally on the user's computer and integrates with multiple LLMs and messaging services (Federico Viticci/MacStories)",
+"source": "Techmeme",
+"url": "http://www.techmeme.com/260124/p17#a260124p17"
+},
+{
+"date": "2026-02-26",
+"label": "“Agents actually work”",
+"headline": "Andrej Karpathy says programming is \"unrecognizable\" now that AI agents actually work",
+"source": "THE DECODER",
+"url": "https://the-decoder.com/andrej-karpathy-says-programming-is-unrecognizable-now-that-ai-agents-actually-work/"
+},
+{
+"date": "2026-03-18",
+"label": "Rogue agents at Meta",
+"headline": "Meta is having trouble with rogue AI agents",
+"source": "TechCrunch",
+"url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/"
+},
+{
+"date": "2026-04-07",
+"label": "Claude Mythos preview",
+"headline": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
+"source": "TechCrunch",
+"url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/"
+},
+{
+"date": "2026-06-07",
+"label": "“Chat is dead”",
+"headline": "OpenAI says \"chat is dead\" and plans to rebuild ChatGPT as a full-blown agent app",
+"source": "THE DECODER",
+"url": "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/"
+},
+{
+"date": "2026-08-26",
+"label": "Agents hack Hugging Face",
+"headline": "The inside story on why OpenAI agents hacked Hugging Face",
+"source": "MIT Technology Review",
+"url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+},
+{
+"date": "2026-09-03",
+"label": "GPT-6 Astra",
+"headline": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
+"source": "THE DECODER",
+"url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/"
+},
+{
+"date": "2026-09-10",
+"label": "Meta Muse at No. 2",
+"headline": "Meta’s AI agent Muse is now the No. 2 app in the US",
+"source": "TechCrunch",
+"url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/"
+},
+{
+"date": "2026-10-09",
+"label": "1,000 parallel agents",
+"headline": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
+"source": "THE DECODER",
+"url": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/"
+}
+]
